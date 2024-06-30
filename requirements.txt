@@ -1,0 +1,7 @@
+ipython
+ipykernel
+skforecast
+pandas
+matplotlib
+shap
+mlflow==2.5.0
